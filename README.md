@@ -17,7 +17,7 @@ Variables:
     * Response variable: BMIPCT
 
 ## methin used
-* **Welch's Two-Sample t-test 。
+* Welch's Two-Sample t-test 。
 
 ## Final Conclusion
 Our analysis reveals a critical disconnect between physical and mental health trends. While adolescent **physical health (BMI) remained stable**, there was a **statistically significant decline in mental well-being** (increased depressive symptoms) in 2007. This suggests that school-based resources should prioritize psychological support and mental health interventions.
