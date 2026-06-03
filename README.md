@@ -16,7 +16,7 @@ Variables:
     * Group variable: recoded CurrentAlcoholUse
     * Response variable: BMIPCT
 
-## methin used
+## methon used
 * Welch's Two-Sample t-test 。
 
 ## Final Conclusion
